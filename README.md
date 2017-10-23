@@ -48,7 +48,7 @@
 + Go through the wizard and then select Appium on the last step
 + Follow the provided instructions to install the CLI and uplaod your tests
 
-Video ver https://channel9.msdn.com/Shows/XamarinShow/The-Xamarin-Show-15-Appium-Mobile-Automation-with-Glenn-Wester?term=Xamarin%20Automation
++ [Video del parcero] (https://channel9.msdn.com/Shows/XamarinShow/The-Xamarin-Show-15-Appium-Mobile-Automation-with-Glenn-Wester?term=Xamarin%20Automation)
 
 Gracias a Glenn Wester, Technical Solutions Professional at Microsoft, who talks to us about Appium-based automated mobile UI testing
 
