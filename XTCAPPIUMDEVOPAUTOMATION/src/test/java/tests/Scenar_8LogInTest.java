@@ -1,13 +1,13 @@
 package tests;
 
-import global.*;
+import global.BaseTestFixture;
 import org.junit.Test;
-import pages.*;
+import pages.LoginPage;
 
 /**
  * Created by matisseh on 2/8/17.
  */
-public class LogInTest extends BaseTestFixture{
+public class Scenar_8LogInTest extends BaseTestFixture{
 
     @Override
     public void beforeEachTest()
@@ -31,7 +31,7 @@ public class LogInTest extends BaseTestFixture{
     @Test
     public void testLogInCredentialsFake() {
         new LoginPage()
-                .enterCredentials("xtc@xamarin.com", "fakes")
+                .enterCredentials("xtc@xamarin.com", "fake")
                 .tapSignInButton();
     }
 }

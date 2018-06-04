@@ -1,13 +1,14 @@
 package tests;
 
-import global.*;
+import global.BaseTestFixture;
 import org.junit.Test;
-import pages.*;
+import pages.FeedPage;
+import pages.SessionsPage;
 
 /**
  * Created by ethand on 1/10/17.
  */
-public class SessionsTest extends BaseTestFixture {
+public class Scenar_8SessionsTest extends BaseTestFixture {
 
     @Test
     public void testNavigateToSessions() {
